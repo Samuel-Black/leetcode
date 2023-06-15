@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "count-largest-group.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel-Black/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel-Black/leetcode/issues"
+  },
+  "homepage": "https://github.com/Samuel-Black/leetcode#readme",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.0",
+    "@datastructures-js/queue": "^4.2.3"
+  }
+}
