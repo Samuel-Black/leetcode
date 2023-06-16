@@ -13,7 +13,7 @@ var findKthLargest = function(nums, k) {
     const numsLength = nums.length;
     
     for (let i = 0; i < numsLength; i++) {
-        const currentMin = minHeap.front();
+        const currentMin = minHeap.front()?.element;
         const currentVal = nums[i];
         if (i < k) {
             minHeap.enqueue(nums[i]);
@@ -23,7 +23,7 @@ var findKthLargest = function(nums, k) {
         }
     }
     
-    return minHeap.front();
+    return minHeap.front()?.element;
 };
 
 console.log(findKthLargest([3,2,1,5,6,4], 2));
