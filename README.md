@@ -4,6 +4,7 @@
 ### 14. [Longest Common Prefix - Unfinished](longest-common-prefix.cpp)
 ### 215. [Kth Largest Element in an Array - Finished (Runtime beats 68.44%, Memory beats 31.30%)](kth-largest-element-in-an-array.js)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)
+### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 1046. [Last Stone Weight - Finished (Runtime beats 11.9%, Memory beats 25.49%)](last-stone-weight.js)
 ### 1337. [The K Weakest Rows in a Matrix - Finished (Runtime beats 41.28%, Memory beats 64.87%)](the-k-weakest-rows-in-a-matrix.py)
