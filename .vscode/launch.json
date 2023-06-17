@@ -11,6 +11,12 @@
       "program": "${file}"
     },
     {
+      "name": "Python3 - Debug Current File",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}"
+    },
+    {
       "type": "lldb",
       "request": "launch",
       "name": "Debug longest-common-prefix",

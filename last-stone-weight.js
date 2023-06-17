@@ -10,6 +10,7 @@ const {
     // create the max heap
     const maxHeap = new MaxPriorityQueue();
 
+    // construct heap time complexity (n log n)
     stones.forEach(stone => {
         maxHeap.enqueue(stone, stone);
     });
@@ -17,9 +18,11 @@ const {
     // while maxHeap.size() > 1
     while (maxHeap?.size() > 1) {
         // get the top element, then remove the top element
+        // time complexity (log n)
         const x = maxHeap.front()?.element;
         maxHeap.dequeue();
         // get the top element again and then remove it again
+        // time complexity (log n)
         const y = maxHeap.front()?.element;
         maxHeap.dequeue();
         const res = x - y;
@@ -27,6 +30,7 @@ const {
             maxHeap.enqueue(res, res);
         }
     }
+    // overall time complexity is (n log n) + ((log n) * 2)?
     return maxHeap.front()?.element ? maxHeap.front().element : 0;
 };
 
