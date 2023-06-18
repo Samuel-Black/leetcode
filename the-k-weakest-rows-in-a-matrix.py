@@ -18,7 +18,6 @@ class Node(object):
 class Solution:
   def kWeakestRows(self, mat: List[List[int]], k: int) -> List[int]:
     maxHeap = []
-    heapq.heapify(maxHeap)
     
     for index, row in enumerate(mat):
       sum = 0
