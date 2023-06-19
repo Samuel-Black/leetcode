@@ -19,16 +19,6 @@ class Solution:
         nodeCompare = nodeCompare.next
       node = node.next
     
-  # def insert_node(self, sorted_head, node):
-  #   if not sorted_head or node.val < sorted_head.val:
-  #     node.next = sorted_head
-  #     sorted_head = node
-  #   else:
-  #     curr = sorted_head
-  #     while curr.next and curr.next.val < node.val:
-  #       curr = curr.next
-  #     node.next = curr.next
-  #     curr.next = node
     return head
 
 n4 = ListNode(0)
