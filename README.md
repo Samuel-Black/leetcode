@@ -15,6 +15,7 @@
 ### 1046. [Last Stone Weight - Finished (Runtime beats 11.9%, Memory beats 25.49%)](last-stone-weight.js)
 ### 1051. [Height Checker - Finished (Runtime beats 5.22%, Memory beats 60.36%)](height-checker.py)
 ### 1167. [Minimum Cost to Connect Sticks - Finished (Runtime beats 9.18%, Memory beats 31.31%)](minimum-cost-to-connect-sticks.py)
+### 1200. [Minimum Absolute Difference - Finished (Runtime beats 58.26%, Memory beats 73.20%)](minimum-absolute-difference.py)
 ### 1337. [The K Weakest Rows in a Matrix - Finished (Runtime beats 41.28%, Memory beats 64.87%)](the-k-weakest-rows-in-a-matrix.py)
 ### 1399. [Count Largest Group - Finished (Runtime beats 66%, Memory beats 60%)](count-largest-group.js)
 ### 1403. [Minimum Subsequence in Non-Increasing Order - Unfinished](minimum-subsequence-in-non-increasing-order.js)
