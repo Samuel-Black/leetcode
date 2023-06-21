@@ -22,4 +22,5 @@
 ### 1413. [Minimum Value to Get Positive Step by Step Sum - Finished (Runtime beats 77.18%, Memory beats 99.51%)](min-start-value.js)
 ### 1598. [Crawler Log Folder - Finished (Runtime beats 100%, Memory beats 70.70%)](crawler-log-folder.js)
 ### 1642. [Furthest Building You Can Reach - Finished (Runtime beats 31.48%, Memory beats 22.43%)](furthest-building-you-can-reach.py)
+### 2343. [Query Kth Smallest Trimmed Number - Finished (Runtime beats 89.26%, Memory beats 75.84)](query-kth-smallest-trimmed-number.py)
 ### 2598. [Smallest Missing Non-negative Integer After Operations - Unfinished](find-smallest-integer.js)
