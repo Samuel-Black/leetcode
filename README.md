@@ -10,6 +10,7 @@
 ### 295. [Find Median from Data Stream - Finished (Runtime beats 54.88%, Memory beats 74.41%)](find-median-from-data-stream.py)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
+### 485. [Max Consecutive Ones - Finished (Runtime beats 65.70%, Memory beats 37.9%)](max-consecutive-ones.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 912. [Sort an Array - Finished (Runtime beats 82.57%, Memory beats 73.61%)](sort-an-array.py)
 ### 973. [K Closest Points to Origin - Finished (Runtime beats 8.47%, Memory beats 23.94%)](k-closest-points-to-origin.py)
