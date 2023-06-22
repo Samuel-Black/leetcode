@@ -2,6 +2,7 @@
 ## <a href="https://leetcode.com/BURGERMAN95" target="_blank">https://leetcode.com/BURGERMAN95/</a>
 ### 5. [Longest Palindromic Substring - Finished (Runtime beats 97.27%, Memory beats 88.36%)](longest-palindromic-substring.js)
 ### 14. [Longest Common Prefix - Unfinished](longest-common-prefix.cpp)
+### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
 ### 75. [Sort Colors - Finished (Runtime beats 94.27%, Memory beats 26.20%)](sort-colors.py)
 ### 88. [Merge Sorted Array - Finished (Runtime beats 56.27%, Memory beats 85.37%)](merge-sorted-array.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
