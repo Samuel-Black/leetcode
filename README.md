@@ -16,7 +16,7 @@
 ### 485. [Max Consecutive Ones - Finished (Runtime beats 65.70%, Memory beats 37.9%)](max-consecutive-ones.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 912. [Sort an Array - Finished (Runtime beats 82.57%, Memory beats 73.61%)](sort-an-array.py)
-### 941. [Valid Mountain Array - ](valid-mountain-array.py)
+### 941. [Valid Mountain Array - Finished (Runtime beats 65.19%, Memory beats 18.49%)](valid-mountain-array.py)
 ### 973. [K Closest Points to Origin - Finished (Runtime beats 8.47%, Memory beats 23.94%)](k-closest-points-to-origin.py)
 ### 977. [Squares of a Sorted Array - Finished (Runtime beats 71.17%, Memory beats 19.50%)](squares-of-a-sorted-array.py)
 ### 1046. [Last Stone Weight - Finished (Runtime beats 11.9%, Memory beats 25.49%)](last-stone-weight.js)
