@@ -16,6 +16,7 @@
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 485. [Max Consecutive Ones - Finished (Runtime beats 65.70%, Memory beats 37.9%)](max-consecutive-ones.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
+### 905. [Sort Array By Parity - Finished (Runtime beats 85.62%, Memory beats 77.31%)](sort-array-by-parity.py)
 ### 912. [Sort an Array - Finished (Runtime beats 82.57%, Memory beats 73.61%)](sort-an-array.py)
 ### 941. [Valid Mountain Array - Finished (Runtime beats 65.19%, Memory beats 18.49%)](valid-mountain-array.py)
 ### 973. [K Closest Points to Origin - Finished (Runtime beats 8.47%, Memory beats 23.94%)](k-closest-points-to-origin.py)
