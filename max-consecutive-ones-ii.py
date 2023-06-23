@@ -2,25 +2,23 @@ from typing import List
 
 class Solution:
   def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
-    maxCount = 0
-    
-    # leftCount = 0
-    # rightCount = 0
-    i = 0
-    for i in range(i, len(nums)):
-      count = 0
-      index = i
-      flipped = False
-      while index < len(nums):
-        if nums[index] == 0 and flipped == False:
-          flipped = True
-        elif nums[index] == 0:
-          i = index
-          break
-        count += 1
-        index += 1
-      if count > maxCount:
-        maxCount = count
+    longest_sequence = 0
+    left, right = 0, 0
+    num_zeroes = 0
+
+    while right < len(nums):   # while our window is in bounds
+      if nums[right] == 0:    # add the right most element into our window
+        num_zeroes += 1
+
+      while num_zeroes == 2:   # if our window is invalid, contract our window
+        if nums[left] == 0:    
+          num_zeroes -= 1
+        left += 1
+
+      longest_sequence = max(longest_sequence, right - left + 1)   # update our longest sequence answer
+      right += 1   # expand our window
+
+    return longest_sequence
       # if rightCount > 0:
       #   if num == 1:
       #     rightCount += 1
@@ -35,7 +33,7 @@ class Solution:
       # if leftCount + rightCount > maxCount:
       #   maxCount = leftCount + rightCount
         
-    return maxCount
+    # return maxCount
 
 solution = Solution()
 print(solution.findMaxConsecutiveOnes([1,0,0,1,1,0,1]))

@@ -16,7 +16,7 @@
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 414. [Third Maximum Number - Finished (Runtiem beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
 ### 485. [Max Consecutive Ones - Finished (Runtime beats 65.70%, Memory beats 37.9%)](max-consecutive-ones.py)
-### 487. [Max Consecutive Ones II - Finished (Runtime beats , Memory beats )](max-consecutive-ones-ii.py)
+### 487. [Max Consecutive Ones II - Finished (Runtime beats 49.58%, Memory beats 94.54%)](max-consecutive-ones-ii.py)
 ### 448. [Find All Numbers Disappeared in an Array - Finished (Runtime beats 80.11%, Memory beats 55.71%)](find-all-numbers-disapeared-in-an-array.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 905. [Sort Array By Parity - Finished (Runtime beats 85.62%, Memory beats 77.31%)](sort-array-by-parity.py)
