@@ -8,6 +8,7 @@
 ### 88. [Merge Sorted Array - Finished (Runtime beats 56.27%, Memory beats 85.37%)](merge-sorted-array.py)
 ### 94. [Binary Tree Inorder Traversal - Finished (Runtime beats 81.17%, Memory beats 30.83%)](binary-tree-inorder-traversal.py)
 ### 144. [Binary Tree Preorder Traversal - Finished (Runtime beats 84.73%, Memory beats 31.4%)](binary-tree-preorder-traversal.py)
+### 145. [Binary Tree Postorder Traversal - Finished (Runtime beats 78.77%, Memory beats 32.11%)](binary-tree-postorder-traversal.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 215. [Kth Largest Element in an Array - Finished (Runtime beats 68.44%, Memory beats 31.30%)](kth-largest-element-in-an-array.js)
