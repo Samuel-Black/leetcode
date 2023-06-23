@@ -10,6 +10,7 @@
 ### 101. [Symmetric Tree - Finished (Runtime beats 74.77%, Memory beats 39.36%)](symmetric-tree.py)
 ### 102. [Binary Tree Level Order Traversal - Finished (Runtime beats 62.64%, Memory beats 8.43%)](binary-tree-level-order-traversal.py)
 ### 104. [Maximum Depth of Binary Tree - Finished (Runtime beats 63.12%, Memory beats 34.59%)](maximum-depth-of-binary-tree.py)
+### 112. [Path Sum - Finished (Runtime beats 85.10%, Memory beats 38.71%)](path-sum.py)
 ### 144. [Binary Tree Preorder Traversal - Finished (Runtime beats 84.73%, Memory beats 31.4%)](binary-tree-preorder-traversal.py)
 ### 145. [Binary Tree Postorder Traversal - Finished (Runtime beats 78.77%, Memory beats 32.11%)](binary-tree-postorder-traversal.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
