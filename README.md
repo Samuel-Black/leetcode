@@ -6,6 +6,8 @@
 ### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
 ### 75. [Sort Colors - Finished (Runtime beats 94.27%, Memory beats 26.20%)](sort-colors.py)
 ### 88. [Merge Sorted Array - Finished (Runtime beats 56.27%, Memory beats 85.37%)](merge-sorted-array.py)
+### 94. [Binary Tree Inorder Traversal - Finished (Runtime beats 81.17%, Memory beats 30.83%)](binary-tree-inorder-traversal.py)
+### 144. [Binary Tree Preorder Traversal - Finished (Runtime beats 84.73%, Memory beats 31.4%)](binary-tree-preorder-traversal.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 215. [Kth Largest Element in an Array - Finished (Runtime beats 68.44%, Memory beats 31.30%)](kth-largest-element-in-an-array.js)
