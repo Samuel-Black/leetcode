@@ -7,6 +7,7 @@
 ### 75. [Sort Colors - Finished (Runtime beats 94.27%, Memory beats 26.20%)](sort-colors.py)
 ### 88. [Merge Sorted Array - Finished (Runtime beats 56.27%, Memory beats 85.37%)](merge-sorted-array.py)
 ### 94. [Binary Tree Inorder Traversal - Finished (Runtime beats 81.17%, Memory beats 30.83%)](binary-tree-inorder-traversal.py)
+### 101. [Symmetric Tree - Finished (Runtime beats 74.77%, Memory beats 39.36%)](symmetric-tree.py)
 ### 102. [Binary Tree Level Order Traversal - Finished (Runtime beats 62.64%, Memory beats 8.43%)](binary-tree-level-order-traversal.py)
 ### 104. [Maximum Depth of Binary Tree - Finished (Runtime beats 63.12%, Memory beats 34.59%)](maximum-depth-of-binary-tree.py)
 ### 144. [Binary Tree Preorder Traversal - Finished (Runtime beats 84.73%, Memory beats 31.4%)](binary-tree-preorder-traversal.py)
