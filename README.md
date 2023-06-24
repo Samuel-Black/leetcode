@@ -49,4 +49,5 @@
 ### 1642. [Furthest Building You Can Reach - Finished (Runtime beats 31.48%, Memory beats 22.43%)](furthest-building-you-can-reach.py)
 ### 2553. [Separate the Digits in an Array - Finished (Runtime beats 95.80%, Memory beats 80.78%)](seperate-the-digits-in-an-array.py)
 ### 2343. [Query Kth Smallest Trimmed Number - Finished (Runtime beats 89.26%, Memory beats 75.84)](query-kth-smallest-trimmed-number.py)
+### 2404. [Most Frequent Even Element - Finished (Runtime beats 88.94%, Memory beats 89.87%)](most-frequent-even-element.py)
 ### 2598. [Smallest Missing Non-negative Integer After Operations - Unfinished](find-smallest-integer.js)
