@@ -22,7 +22,7 @@
 ### 283. [Move Zeroes - Finished (Runtime beats 70.96%, Memory beats 87.57%)](move-zeroes.py)
 ### 295. [Find Median from Data Stream - Finished (Runtime beats 54.88%, Memory beats 74.41%)](find-median-from-data-stream.py)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)
-### 349. [Intersection of Two Arrays - Finished ()](intersection-of-two-arrays.py)
+### 349. [Intersection of Two Arrays - Finished (Runtime beats 84.81%, Memory beats 92.60%)](intersection-of-two-arrays.py)
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 414. [Third Maximum Number - Finished (Runtiem beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
 ### 482. [License Key Formatting - Finished (Runtime beats 9.57%, Memory beats 69.73%)](license-key-formatting.py)
