@@ -2,6 +2,7 @@
 ## <a href="https://leetcode.com/BURGERMAN95" target="_blank">https://leetcode.com/BURGERMAN95/</a>
 ### 5. [Longest Palindromic Substring - Finished (Runtime beats 97.27%, Memory beats 88.36%)](longest-palindromic-substring.js)
 ### 14. [Longest Common Prefix - Finished (Runtime beats 69.43%, Memory beats 67.45%)](longest-common-prefix.py)
+### 21. [Merge Two Sorted Lists - Finished (Runtime beats 95.64%, Memory beats 12.66%)](merge-two-sorted-lists.py)
 ### 26. [Remove Duplicates from Sorted Array - Finished (Runtime beats 91.21%, Memory beats 56%)](remove-duplicates-from-sorted-array.py)
 ### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
 ### 75. [Sort Colors - Finished (Runtime beats 94.27%, Memory beats 26.20%)](sort-colors.py)
@@ -23,6 +24,7 @@
 ### 283. [Move Zeroes - Finished (Runtime beats 70.96%, Memory beats 87.57%)](move-zeroes.py)
 ### 295. [Find Median from Data Stream - Finished (Runtime beats 54.88%, Memory beats 74.41%)](find-median-from-data-stream.py)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)
+### 345. [Reverse Vowels of a String - Finished ()](reverse-vowels-of-a-string.py)
 ### 349. [Intersection of Two Arrays - Finished (Runtime beats 84.81%, Memory beats 92.60%)](intersection-of-two-arrays.py)
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 414. [Third Maximum Number - Finished (Runtiem beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
