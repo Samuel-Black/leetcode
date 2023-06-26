@@ -19,6 +19,7 @@
 ### 110. [Balanced Binary Tree - Finished (Runtime beats 75.20%, Memory beats 75.88%)](balanced-binary-tree.py)
 ### 112. [Path Sum - Finished (Runtime beats 85.10%, Memory beats 38.71%)](path-sum.py)
 ### 116. [Populating Next Right Pointers in Each Node - Finished ()](populating-next-right-pointers-in-each-node.py)
+### 118. [Pascal's Triangle - Finished (Runtime beats 70.85%, Memory beats 78.43%)](pascals-triangle.py)
 ### 144. [Binary Tree Preorder Traversal - Finished (Runtime beats 84.73%, Memory beats 31.4%)](binary-tree-preorder-traversal.py)
 ### 145. [Binary Tree Postorder Traversal - Finished (Runtime beats 78.77%, Memory beats 32.11%)](binary-tree-postorder-traversal.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
