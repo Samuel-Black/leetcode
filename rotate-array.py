@@ -13,9 +13,10 @@ class Solution:
     # solution #2
     n = len(nums)
     # mod k by length of the array to avoid pointless operations
-    moves = k % n
-    for i in range(0, moves):
-      nums.insert(0, nums.pop())
+    moves = k % n if k > 0 else 0
+    temp = [*nums[(n-1) - (moves - 1):], *nums[0: (n-1) - (moves - 1)]]
+    nums.clear()
+    nums.extend(temp)
       
     return nums
 
