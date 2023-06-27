@@ -27,7 +27,7 @@
 ### 163. [Missing Ranges - Finished (Runtime beats 81.36%, Memory beats 47.44%)](missing-ranges.py)
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 167. [Two Sum II - Input Array Is Sorted - Finished ()](two-sum-ii-input-array-is-sorted.py)
-### 189. [Rotate Array - Finished ()](rotate-array.py)
+### 189. [Rotate Array - Finished (Runtime beats 82.43%, Memory beats 9.75%)](rotate-array.py)
 ### 209. [Minimum Size Subarray Sum - Finished (Runtime beats 84.30%, Memory beats 80.94%)](minimum-size-subarray-sum.py)
 ### 215. [Kth Largest Element in an Array - Finished (Runtime beats 68.44%, Memory beats 31.30%)](kth-largest-element-in-an-array.js)
 ### 250. [Count Univalue Subtrees - Finished (Runtime beats 76.35%, Memory beats 30.90%)](count-univalue-subtrees.py)
