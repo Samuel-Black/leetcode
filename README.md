@@ -2,6 +2,7 @@
 ## <a href="https://leetcode.com/BURGERMAN95" target="_blank">https://leetcode.com/BURGERMAN95/</a>
 ### 5. [Longest Palindromic Substring - Finished (Runtime beats 97.27%, Memory beats 88.36%)](longest-palindromic-substring.js)
 ### 14. [Longest Common Prefix - Finished (Runtime beats 69.43%, Memory beats 67.45%)](longest-common-prefix.py)
+### 19. [Remove Nth Node From End of List - Finished (Runtime beats 75.61%, Memory beats 97.42%)](remove-nth-node-from-end-of-list.py)
 ### 21. [Merge Two Sorted Lists - Finished (Runtime beats 95.64%, Memory beats 12.66%)](merge-two-sorted-lists.py)
 ### 26. [Remove Duplicates from Sorted Array - Finished (Runtime beats 91.21%, Memory beats 56%)](remove-duplicates-from-sorted-array.py)
 ### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
@@ -28,6 +29,7 @@
 ### 145. [Binary Tree Postorder Traversal - Finished (Runtime beats 78.77%, Memory beats 32.11%)](binary-tree-postorder-traversal.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
 ### 151. [Reverse Words in a String - Finished (Runtime beats 46.68%, Memory beats 91.38%)](reverse-words-in-a-string.py)
+### 160. [Intersection of Two Linked Lists - Finished (Runtime beats 87.67%, Memory beats 37.28%)](intersection-of-two-linked-lists.py)
 ### 163. [Missing Ranges - Finished (Runtime beats 81.36%, Memory beats 47.44%)](missing-ranges.py)
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 167. [Two Sum II - Input Array Is Sorted - Finished ()](two-sum-ii-input-array-is-sorted.py)
