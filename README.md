@@ -1,5 +1,6 @@
 # leetcode
 ## <a href="https://leetcode.com/BURGERMAN95" target="_blank">https://leetcode.com/BURGERMAN95/</a>
+### 2. [Add Two Numbers - Finished (Runtime beats 99.17%, Memory beats 96.4%)](add-two-numbers.py)
 ### 5. [Longest Palindromic Substring - Finished (Runtime beats 97.27%, Memory beats 88.36%)](longest-palindromic-substring.js)
 ### 14. [Longest Common Prefix - Finished (Runtime beats 69.43%, Memory beats 67.45%)](longest-common-prefix.py)
 ### 19. [Remove Nth Node From End of List - Finished (Runtime beats 75.61%, Memory beats 97.42%)](remove-nth-node-from-end-of-list.py)
@@ -34,13 +35,16 @@
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 167. [Two Sum II - Input Array Is Sorted - Finished ()](two-sum-ii-input-array-is-sorted.py)
 ### 189. [Rotate Array - Finished (Runtime beats 82.43%, Memory beats 9.75%)](rotate-array.py)
+### 203. [Remove Linked List Elements - Finished (Runtime beats 83.1%, Memory beats 83.71%)](remove-linked-list-elements.py)
 ### 206. [Reverse Linked List - Finished (Runtime beats 90.50%, Memory beats 98.5%)](reverse-linked-list.py)
 ### 209. [Minimum Size Subarray Sum - Finished (Runtime beats 84.30%, Memory beats 80.94%)](minimum-size-subarray-sum.py)
 ### 215. [Kth Largest Element in an Array - Finished (Runtime beats 68.44%, Memory beats 31.30%)](kth-largest-element-in-an-array.js)
+### 234. [Palindrome Linked List - Finished ()](palindrome-linked-list.py)
 ### 250. [Count Univalue Subtrees - Finished (Runtime beats 76.35%, Memory beats 30.90%)](count-univalue-subtrees.py)
 ### 253. [Meeting Rooms II - Finished (Runtime beats 49.16%, Memory beats 46.10%)](meeting-rooms-ii.py)
 ### 283. [Move Zeroes - Finished (Runtime beats 70.96%, Memory beats 87.57%)](move-zeroes.py)
 ### 295. [Find Median from Data Stream - Finished (Runtime beats 54.88%, Memory beats 74.41%)](find-median-from-data-stream.py)
+### 328. [Odd Even Linked List - Finished (Runtime beats 62.61%, Memoy beats 56.40%)](odd-even-linked-list.py)
 ### 344. [Reverse String - Finished (Runtime beats 86.91%, Memory beats 51.81%)](reverse-string.py)
 ### 345. [Reverse Vowels of a String - Finished (Runtime beats 90.17%, Memory beats 71.42%)](reverse-vowels-of-a-string.py)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)

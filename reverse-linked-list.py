@@ -12,10 +12,9 @@ class Solution:
     node = head
     # 1 - 2 - 3 - 4 - 5
     while node and node:
-      temp = node
       head = node.next
       node.next = res
-      res = temp
+      res = node
       
       node = head
     return res
