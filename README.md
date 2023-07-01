@@ -68,6 +68,7 @@
 ### 605. [Can Place Flowers - Finished (Runtime beats 68.79%, Memory beats 66.53%)](can-place-flowers.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 705. [Design HashSet - Finished (Runtime beats 31.71%, Memory beats 6.77%)](design-hashset.py)
+### 706. [Design HashMap - Finished ()](design-hashmap.py)
 ### 707. [Design Linked List - Finished (Runtime beats 15.50%, Memory beats 93.60%)](design-linked-list.py)
 ### 708. [Insert into a Sorted Circular Linked List - Finished (Runtime beats 48.37%, Memory beats 44.96%)](insert-into-sorted-circular-linked-list.py)
 ### 724. [Find Pivot Index - Finished (Runtime beats 91.38%, Memory beats 67.10%)](find-pivot-index.py)
