@@ -54,7 +54,7 @@ class Solution:
       # if root and root.next:
       #   nextRight = self.connect(root.next.left)
       #   right.next = nextRight
-    return root
+    # return root
   
     # def helper(root: Optional[Node]) -> Optional[Node]:
       
