@@ -39,6 +39,7 @@
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
 ### 167. [Two Sum II - Input Array Is Sorted - Finished ()](two-sum-ii-input-array-is-sorted.py)
 ### 189. [Rotate Array - Finished (Runtime beats 82.43%, Memory beats 9.75%)](rotate-array.py)
+### 202. [Happy Number - Finished ()](happy-number.py)
 ### 203. [Remove Linked List Elements - Finished (Runtime beats 83.1%, Memory beats 83.71%)](remove-linked-list-elements.py)
 ### 206. [Reverse Linked List - Finished (Runtime beats 90.50%, Memory beats 98.5%)](reverse-linked-list.py)
 ### 209. [Minimum Size Subarray Sum - Finished (Runtime beats 84.30%, Memory beats 80.94%)](minimum-size-subarray-sum.py)
