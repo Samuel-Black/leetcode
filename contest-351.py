@@ -1,7 +1,7 @@
 from functools import cache
 from typing import List, Optional
 import heapq
-from math import gcd as bltin_gcd
+from math import gcd
 
 # class Solution:
 #   def countBeautifulPairs(self, nums: List[int]) -> int:
