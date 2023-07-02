@@ -102,6 +102,7 @@
 ### 1403. [Minimum Subsequence in Non-Increasing Order - Unfinished](minimum-subsequence-in-non-increasing-order.js)
 ### 1413. [Minimum Value to Get Positive Step by Step Sum - Finished (Runtime beats 77.18%, Memory beats 99.51%)](min-start-value.js)
 ### 1598. [Crawler Log Folder - Finished (Runtime beats 100%, Memory beats 70.70%)](crawler-log-folder.js)
+### 1601. [Maximum Number of Achievable Transfer Requests](maximum-number-of-achievable-transfer-requests.py)
 ### 1642. [Furthest Building You Can Reach - Finished (Runtime beats 31.48%, Memory beats 22.43%)](furthest-building-you-can-reach.py)
 ### 1805. [Number of Different Integers in a String - Finished (Runtime beats 69.43%, Memory beats 67.45%)](number-of-different-integers-in-a-string.py)
 ### 2305. [Fair Distribution of Cookies - Finished ()](fair-distribution-of-cookies.py)
