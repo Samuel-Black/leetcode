@@ -15,7 +15,7 @@ class Solution:
     
     leftSubtree = self.findDuplicateSubtrees(root.left)
     if leftSubtree in self.subtrees:
-      self.
+      self.duplicates.append()
     rightSubtree = self.findDuplicateSubtrees(root.left)
     
     return 
