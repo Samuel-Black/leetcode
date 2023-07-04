@@ -58,6 +58,7 @@
 ### 250. [Count Univalue Subtrees - Finished (Runtime beats 76.35%, Memory beats 30.90%)](count-univalue-subtrees.py)
 ### 253. [Meeting Rooms II - Finished (Runtime beats 49.16%, Memory beats 46.10%)](meeting-rooms-ii.py)
 ### 283. [Move Zeroes - Finished (Runtime beats 70.96%, Memory beats 87.57%)](move-zeroes.py)
+### 288. [Unique Word Abbreviation - Finished (Runtime beats 86.45%, Memory beats 72.26%)](unique-word-abbreviation.py)
 ### 295. [Find Median from Data Stream - Finished (Runtime beats 54.88%, Memory beats 74.41%)](find-median-from-data-stream.py)
 ### 328. [Odd Even Linked List - Finished (Runtime beats 62.61%, Memoy beats 56.40%)](odd-even-linked-list.py)
 ### 344. [Reverse String - Finished (Runtime beats 86.91%, Memory beats 51.81%)](reverse-string.py)
