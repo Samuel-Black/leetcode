@@ -63,6 +63,7 @@
 ### 328. [Odd Even Linked List - Finished (Runtime beats 62.61%, Memoy beats 56.40%)](odd-even-linked-list.py)
 ### 344. [Reverse String - Finished (Runtime beats 86.91%, Memory beats 51.81%)](reverse-string.py)
 ### 345. [Reverse Vowels of a String - Finished (Runtime beats 90.17%, Memory beats 71.42%)](reverse-vowels-of-a-string.py)
+### 346. [Moving Average from Data Stream - Finished (Runtime beats 86.96%, Memory beats 96.78%)](moving-average-from-data-stream.py)
 ### 347. [Top K Frequent Elements - Finished (Runtime beats 11.03%, Memory beats 19.41%)](kth-largest-element-in-an-array.js)
 ### 349. [Intersection of Two Arrays - Finished (Runtime beats 84.81%, Memory beats 92.60%)](intersection-of-two-arrays.py)
 ### 350. [Intersection of Two Arrays II - Finished (Runtime beats 82.64%, Memory beats 93.53%)](intersection-of-two-arrays-ii.py)
