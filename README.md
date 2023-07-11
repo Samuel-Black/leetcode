@@ -95,6 +95,7 @@
 ### 599. [Minimum Index Sum of Two Lists - Finished (Runtime beats 92.20%, Memory beats 87.92%)](minimum-index-sum-of-two-lists.py)
 ### 605. [Can Place Flowers - Finished (Runtime beats 68.79%, Memory beats 66.53%)](can-place-flowers.py)
 ### 622. [Design Circular Queue - Finished (Runtime beats 83.20%, Memory beats 58.70%)](design-circular-queue.py)
+### 643. [Maximum Average Subarray I - Finished (Runtime beats 67.77%, Memory beats 79.60%)](maximum-average-subarray-i.py)
 ### 652. [Find Duplicate Subtrees - Finished ()](find-duplicates-subtrees.py)
 ### 703. [Kth Largest Element in a Stream - Finished (Runtime beats 60.46%, Memory beats 44.47%)](kth-largest-element-in-a-stream.js)
 ### 705. [Design HashSet - Finished (Runtime beats 31.71%, Memory beats 6.77%)](design-hashset.py)
