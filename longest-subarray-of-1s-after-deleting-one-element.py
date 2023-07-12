@@ -28,21 +28,16 @@ class Solution:
     # # else:
     # return res
     
-    left = deleted = res = 0
-    zeroIndex = -1
+    left = deleted = 0
     n = len(nums)
     for right in range(0, n):
       deleted += 1 - nums[right]
+      
       if deleted >= 2:
-        left = zeroIndex
-        zeroIndex = right
-        deleted-=1
-      res = max(res, right - left)
-      # if deleted >= 2:
-      #   deleted -= 1 - nums[left]
-      #   left+=1
+        deleted -= 1 - nums[left]
+        left+=1
         
-    return res
+    return right - left
     
 solution = Solution()
 print(solution.longestSubarray([1,1,0,1]))
