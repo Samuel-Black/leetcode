@@ -136,6 +136,7 @@
 ### 1601. [Maximum Number of Achievable Transfer Requests - Finished (Runtime beats 53.40%, Memory beats 95.15%)](maximum-number-of-achievable-transfer-requests.py)
 ### 1642. [Furthest Building You Can Reach - Finished (Runtime beats 31.48%, Memory beats 22.43%)](furthest-building-you-can-reach.py)
 ### 1679. [Max Number of K-Sum Pairs - Finished (Runtime beats 84.80%, Memory beats 92.22%)](max-number-of-k-sum-pairs.py)
+### 1732. [Find the Highest Altitude - Finished (Runtime beats 93.87%, Memory beats 94.70%)](find-the-highest-altitude.py)
 ### 1768. [Merge Strings Alternately - Finished (Runtime beats 99.64%, Memory beats 76.37%)](merge-strings-alternately.py)
 ### 1805. [Number of Different Integers in a String - Finished (Runtime beats 69.43%, Memory beats 67.45%)](number-of-different-integers-in-a-string.py)
 ### 2024. [Maximize the Confusion of an Exam - Finished (Runtime beats 28.62%, Memory beats 55.12%)](maximize-the-confuion-of-an-exam.py)
