@@ -1,5 +1,5 @@
 # leetcode
-## <a href="https://leetcode.com/BURGERMAN95" target="_blank">https://leetcode.com/BURGERMAN95/</a>
+## <a href="https://leetcode.com/BURGER_MAN" target="_blank">https://leetcode.com/BURGER_MAN/</a>
 ### 1. [Two Sum - Finished (Runtime beats 88.96%, Memory beats 9.61%)](two-sum.py)
 ### 2. [Add Two Numbers - Finished (Runtime beats 99.17%, Memory beats 96.4%)](add-two-numbers.py)
 ### 3. [Longest Substring Without Repeating Characters - Finished (Runtime beats 82.94%, Memory beats 45.76%)](longest-substrings-without-repeating-characters.py)
@@ -123,6 +123,7 @@
 ### 1230. [Toss Strange Coins - Unfished ()](toss-strange-coins.py)
 ### 1295. [Find Numbers with Even Number of Digits - Finished (Runtime beats 72.63%, Memory beats 56.10%)](find-numbers-with-even-number-of-digits.py)
 ### 1200. [Minimum Absolute Difference - Finished (Runtime beats 58.26%, Memory beats 73.20%)](minimum-absolute-difference.py)
+### 1207. [Unique Number of Occurrences - Finished (Runtime beats 70.27%, Memory beats 88.36%)](unique-number-of-occurrences.py)
 ### 1299. [Replace Elements with Greatest Element on Right Side - Finished (Runtime beats 73.39%, Memory beats 70.90%)](replace-elements-with-greatestelement-on-right-side.py)
 ### 1337. [The K Weakest Rows in a Matrix - Finished (Runtime beats 41.28%, Memory beats 64.87%)](the-k-weakest-rows-in-a-matrix.py)
 ### 1346. [Check If N and Its Double Exist - Finished (Runtime beats 90.21%, Memory beats 74.25%)](check-if-n-and-its-double-exists.py)
