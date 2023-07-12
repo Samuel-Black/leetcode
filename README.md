@@ -140,6 +140,7 @@
 ### 1768. [Merge Strings Alternately - Finished (Runtime beats 99.64%, Memory beats 76.37%)](merge-strings-alternately.py)
 ### 1805. [Number of Different Integers in a String - Finished (Runtime beats 69.43%, Memory beats 67.45%)](number-of-different-integers-in-a-string.py)
 ### 2024. [Maximize the Confusion of an Exam - Finished (Runtime beats 28.62%, Memory beats 55.12%)](maximize-the-confuion-of-an-exam.py)
+### 2215. [Find the Difference of Two Arrays - Finished (Runtime beats 91.68%, Memory beats 87.41%)](find-the-difference-of-two-arrays.py)
 ### 2272. [Substring With Largest Variance - Finished ()](substring-with-largest-variance.py)
 ### 2305. [Fair Distribution of Cookies - Finished ()](fair-distribution-of-cookies.py)
 ### 2331. [Evaluate Boolean Binary Tree - Finished (Runtime beats 79.75%, Memory beats 79.46%)](evaluate-boolean-binary-tree.py)
