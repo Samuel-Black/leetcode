@@ -47,7 +47,7 @@
 ### 167. [Two Sum II - Input Array Is Sorted - Finished (Runtime beats 51.80%, Memory beats 60.30%)](two-sum-ii-input-array-is-sorted.py)
 ### 170. [Two Sum III - Data structure design - Finished (Runtime beats 48.74%, Memory beats 34.2%)](two-sum-iii-data-structure-design.py)
 ### 189. [Rotate Array - Finished (Runtime beats 82.43%, Memory beats 9.75%)](rotate-array.py)
-### 200. [Number of Islands - Finished ()](number-of-islands.py)
+### 200. [Number of Islands - Finished (Runtime beats 42.80%, Memory beats 34.19%)](number-of-islands.py)
 ### 202. [Happy Number - Finished (Runtime beats 84.19%, Memory beats 95.87%)](happy-number.py)
 ### 203. [Remove Linked List Elements - Finished (Runtime beats 83.1%, Memory beats 83.71%)](remove-linked-list-elements.py)
 ### 205. [Isomorphic Strings - Finished (Runtime beats 90.10%, Memory beats 45.23%)](isomorphic-strings.py)
