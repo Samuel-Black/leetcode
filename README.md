@@ -105,6 +105,7 @@
 ### 708. [Insert into a Sorted Circular Linked List - Finished (Runtime beats 48.37%, Memory beats 44.96%)](insert-into-sorted-circular-linked-list.py)
 ### 724. [Find Pivot Index - Finished (Runtime beats 91.38%, Memory beats 67.10%)](find-pivot-index.py)
 ### 747. [Largest Number At Least Twice of Others - Finished (Runtime beats 95.14%, Memory beats 65.69%)](largest-number-at-least-twice-of-others.py)
+### 752. [Open the Lock - Finished ()](open-the-lock.py)
 ### 771. [Jewels and Stones - Finished (Runtime beats 84.51%, Memory beats 95.50%)](jewels-and-stones.py)
 ### 802. [Find Eventual Safe States - Finished ()](find-eventual-safe-stats.py)
 ### 859. [Buddy Strings - Finished (Runtime beats 68.57%, Memory beats 99.29%)](buddy-strings.py)
