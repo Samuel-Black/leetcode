@@ -82,6 +82,7 @@
 ### 392. [Is Subsequence - Finished (Runtime beats 61.61%, Memory beats 65.46%)](is-subsequence.py)
 ### 414. [Third Maximum Number - Finished (Runtiem beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
 ### 430. [Flatten a Multilevel Doubly Linked List - Finished (Runtime beats 8.96%, Memory beats 25.95%)](flatten-a-multilevel-doubly-linked-list.py)
+### 433. [Minimum Genetic Mutation - Finished (Runtime beats 55.85%, Memory beats 86.41%)](minimum-genetic-mutation.py)
 ### 443. [String Compression - Finished (Runtime beats 58.29%, Memory beats 99.93%)](string-compression.py)
 ### 445. [Add Two Numbers II - Finished (Runtime beats 90.93%, Memory beats 68.70%)](add-two-numbers-ii.py)
 ### 448. [Find All Numbers Disappeared in an Array - Finished (Runtime beats 80.11%, Memory beats 55.71%)](find-all-numbers-disapeared-in-an-array.py)
