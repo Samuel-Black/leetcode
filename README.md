@@ -82,7 +82,7 @@
 ### 380. [Insert Delete GetRandom O(1) - Finished (Runtime beats 91.65%, Memory beats 64.84%)](insert-delete-getrandom-o1.py)
 ### 387. [First Unique Character in a String - Finished (Runtime beats 33.47%, Memory beats 65.33%)](first-unique-character-in-a-string.py)
 ### 392. [Is Subsequence - Finished (Runtime beats 61.61%, Memory beats 65.46%)](is-subsequence.py)
-### 394. [Decode String - Finished ()](decode-string.py)
+### 394. [Decode String - Finished (Runtime beats 82.67%, Memory beats 76.81%)](decode-string.py)
 ### 414. [Third Maximum Number - Finished (Runtiem beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
 ### 430. [Flatten a Multilevel Doubly Linked List - Finished (Runtime beats 8.96%, Memory beats 25.95%)](flatten-a-multilevel-doubly-linked-list.py)
 ### 433. [Minimum Genetic Mutation - Finished (Runtime beats 55.85%, Memory beats 86.41%)](minimum-genetic-mutation.py)
