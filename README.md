@@ -119,6 +119,7 @@
 ### 771. [Jewels and Stones - Finished (Runtime beats 84.51%, Memory beats 95.50%)](jewels-and-stones.py)
 ### 802. [Find Eventual Safe States - Finished ()](find-eventual-safe-stats.py)
 ### 859. [Buddy Strings - Finished (Runtime beats 68.57%, Memory beats 99.29%)](buddy-strings.py)
+### 872. [Leaf-Similar Trees - Finished ()](leaf-similar-trees.py)
 ### 894. [All Possible Full Binary Trees - Finished ()](all-possible-full-binary-trees.py)
 ### 905. [Sort Array By Parity - Finished (Runtime beats 85.62%, Memory beats 77.31%)](sort-array-by-parity.py)
 ### 912. [Sort an Array - Finished (Runtime beats 82.57%, Memory beats 73.61%)](sort-an-array.py)
