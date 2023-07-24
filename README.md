@@ -7,6 +7,7 @@
 ### 11. [Container With Most Water - Finished (Runtime beats 87.18%, Memory beats 66.53%)](container-with-most-water.py)
 ### 14. [Longest Common Prefix - Finished (Runtime beats 69.43%, Memory beats 67.45%)](longest-common-prefix.py)
 ### 19. [Remove Nth Node From End of List - Finished (Runtime beats 75.61%, Memory beats 97.42%)](remove-nth-node-from-end-of-list.py)
+### 20. [Valid Parentheses - Finished (Runtime beats 87.16%, Memory beats 88.10%)](valid-parentheses.py)
 ### 21. [Merge Two Sorted Lists - Finished (Runtime beats 95.64%, Memory beats 12.66%)](merge-two-sorted-lists.py)
 ### 26. [Remove Duplicates from Sorted Array - Finished (Runtime beats 91.21%, Memory beats 56%)](remove-duplicates-from-sorted-array.py)
 ### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
