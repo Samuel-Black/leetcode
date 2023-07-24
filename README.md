@@ -43,6 +43,7 @@
 ### 146. [LRU Cache - Finished (Runtime beats 52.95%, Memory beats 50.62%)](lru-cache.py)
 ### 147. [Insertion Sort List - Finished (Runtime beats 5.10%, Memory beats 75.99%)](insertion-sort-list.py)
 ### 151. [Reverse Words in a String - Finished (Runtime beats 46.68%, Memory beats 91.38%)](reverse-words-in-a-string.py)
+### 155. [Min Stack - Finished (Runtime beats 82.88%, Memory beats 49.71%)](min-stack.py)
 ### 160. [Intersection of Two Linked Lists - Finished (Runtime beats 87.67%, Memory beats 37.28%)](intersection-of-two-linked-lists.py)
 ### 163. [Missing Ranges - Finished (Runtime beats 81.36%, Memory beats 47.44%)](missing-ranges.py)
 ### 164. [Maximum Gap - Finished (Runtime beats 7.92%, Memory beats 89.24%)](maximum-gap.py)
