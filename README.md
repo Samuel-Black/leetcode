@@ -166,6 +166,7 @@
 ### 2024. [Maximize the Confusion of an Exam - Finished (Runtime beats 28.62%, Memory beats 55.12%)](maximize-the-confuion-of-an-exam.py)
 ### 2095. [Delete the Middle Node of a Linked List - Finished (Runtime beats 81.79%, Memory beats 57.81%)](delete-the-middle-node-of-a-linked-list.py)
 ### 2130. [Maximum Twin Sum of a Linked List - Finished (Runtime beats 77.40%, Memory beats 81.36%)](maximum-twin-sum-of-a-linked-list.py)
+### 2141. [Maximum Running Time of N Computers - Finished (Runtime beats 46.99%, Memory beats 49.40%)](maximum-running-time-of-n-computers.py)
 ### 2215. [Find the Difference of Two Arrays - Finished (Runtime beats 91.68%, Memory beats 87.41%)](find-the-difference-of-two-arrays.py)
 ### 2272. [Substring With Largest Variance - Finished ()](substring-with-largest-variance.py)
 ### 2305. [Fair Distribution of Cookies - Finished ()](fair-distribution-of-cookies.py)
