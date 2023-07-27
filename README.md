@@ -122,6 +122,7 @@
 ### 752. [Open the Lock - Finished (Runtime beats 91.75%, Memory beats 38.11%)](open-the-lock.py)
 ### 771. [Jewels and Stones - Finished (Runtime beats 84.51%, Memory beats 95.50%)](jewels-and-stones.py)
 ### 802. [Find Eventual Safe States - Finished ()](find-eventual-safe-stats.py)
+### 852. [Peak Index in a Mountain Array - Finished (Runtime beats 98.59%, Memory beats 32.70%)](peak-index-in-a-mountain-array.py)
 ### 859. [Buddy Strings - Finished (Runtime beats 68.57%, Memory beats 99.29%)](buddy-strings.py)
 ### 872. [Leaf-Similar Trees - Finished (Runtime beats 88.80%, Memory beats 28.49%)](leaf-similar-trees.py)
 ### 894. [All Possible Full Binary Trees - Finished ()](all-possible-full-binary-trees.py)
