@@ -96,6 +96,7 @@
 ### 454. [4Sum II - Finished (Runtime beats 70.28%, Memory beats 88.22%)](4sum-ii.py)
 ### 482. [License Key Formatting - Finished (Runtime beats 9.57%, Memory beats 69.73%)](license-key-formatting.py)
 ### 485. [Max Consecutive Ones - Finished (Runtime beats 65.70%, Memory beats 37.9%)](max-consecutive-ones.py)
+### 486. [Predict the Winner - Finished ()](predict-the-winner.py)
 ### 487. [Max Consecutive Ones II - Finished (Runtime beats 49.58%, Memory beats 94.54%)](max-consecutive-ones-ii.py)
 ### 496. [Next Greater Element I - Finished ()](next-greater-element-i.py)
 ### 498. [Diagonal Traverse - Finished (Runtime beats 89.20%, Memory beats 94.60%)](diagonal-traverse.py)
