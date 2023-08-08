@@ -12,6 +12,7 @@
 ### 21. [Merge Two Sorted Lists - Finished (Runtime beats 95.64%, Memory beats 12.66%)](merge-two-sorted-lists.py)
 ### 26. [Remove Duplicates from Sorted Array - Finished (Runtime beats 91.21%, Memory beats 56%)](remove-duplicates-from-sorted-array.py)
 ### 27. [Remove Element - Finished (Runtime beats 84.84%, Memory beats 70.18%)](remove-element.py)
+### 33. [Search in Rotated Sorted Array - Finished (Runtime beats 97.13%, Memory beats 94.24%)](search-in-rotated-sorted-array.py)
 ### 36. [Valid Sudoku - Finished (Runtime beats 88.57%, Memory beats 48.79%)](valid-sudoku.py)
 ### 49. [Group Anagrams - Finished (Runtime beats 89.78%, Memory beats 77.53%)](group-anagrams.py)
 ### 50. [Pow(x, n) - Finished ()](pow-x-n.py)
