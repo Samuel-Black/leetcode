@@ -4,11 +4,17 @@ import unittest
 class Solution:
   def maximalSquare(self, matrix: List[List[str]]) -> int:
     
-    def dp():
-      
+    n = len(matrix)
+    m = len(matrix[0])
+    
+    dp = [[0] * (m) for _ in range(n)]
+    
+    
+    
+    return dp
+    
     
 solution = Solution()
-
 test = unittest.TestCase()
 
 test1 = solution.maximalSquare([["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]])
