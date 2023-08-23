@@ -135,6 +135,7 @@
 ### 746. [Min Cost Climbing Stairs - Finished (Runtime beats 97.48%, Memory beats 99.22%)](min-cost-climbing-stairs.py)
 ### 747. [Largest Number At Least Twice of Others - Finished (Runtime beats 95.14%, Memory beats 65.69%)](largest-number-at-least-twice-of-others.py)
 ### 752. [Open the Lock - Finished (Runtime beats 91.75%, Memory beats 38.11%)](open-the-lock.py)
+### 767. [Reorganize String - Finished ()](reorganize-string.py)
 ### 771. [Jewels and Stones - Finished (Runtime beats 84.51%, Memory beats 95.50%)](jewels-and-stones.py)
 ### 802. [Find Eventual Safe States - Finished ()](find-eventual-safe-stats.py)
 ### 852. [Peak Index in a Mountain Array - Finished (Runtime beats 98.59%, Memory beats 32.70%)](peak-index-in-a-mountain-array.py)
