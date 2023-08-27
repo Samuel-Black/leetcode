@@ -118,6 +118,7 @@
 ### 605. [Can Place Flowers - Finished (Runtime beats 68.79%, Memory beats 66.53%)](can-place-flowers.py)
 ### 622. [Design Circular Queue - Finished (Runtime beats 83.20%, Memory beats 58.70%)](design-circular-queue.py)
 ### 643. [Maximum Average Subarray I - Finished (Runtime beats 67.77%, Memory beats 79.60%)](maximum-average-subarray-i.py)
+### 646. [Maximum Length of Pair Chain - Finished (Runtime beats 85.46%, Memory beats 35.43%)](maximum-length-of-pair-chain.py)
 ### 649. [Dota2 Senate - Finished (Runtime beats 35.19%, Memory beats 8.12%)](dota2-senate.py)
 ### 652. [Find Duplicate Subtrees - Finished ()](find-duplicates-subtrees.py)
 ### 673. [Number of Longest Increasing Subsequence - Finished ()](number-of-longest-increasing-subsequence.py)
