@@ -69,6 +69,7 @@
 ### 217. [Contains Duplicate - Finished (Runtime beats 32.82%, Memory beats 70.1%)](contains-duplicate.py)
 ### 219. [Contains Duplicate II - Finished (Runtime beats 9.61%, Memory beats 5.86%)](contains-duplicate-ii.py)
 ### 221. [Maximal Square - Finished ()](maximal-square.py)
+### 225. [Implement Stack using Queues - Finished (Runtime beats 97.50%, Memory beats 92.36%)](implement-stack-using-queues.py)
 ### 234. [Palindrome Linked List - Finished ()](palindrome-linked-list.py)
 ### 238. [Product of Array Except Self - Finished ()](product-of-array-except-self.py)
 ### 239. [Sliding Window Maximum - Finished ()](sliding-window-maximum.py)
