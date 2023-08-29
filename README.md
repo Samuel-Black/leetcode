@@ -200,6 +200,7 @@
 ### 2390. [Removing Stars From a String - Finished (Runtime beats 93.16%, Memory beats 57.94%)](removing-stars-from-a-string.py)
 ### 2404. [Most Frequent Even Element - Finished (Runtime beats 88.94%, Memory beats 89.87%)](most-frequent-even-element.py)
 ### 2462. [Total Cost to Hire K Workers - Finished (Runtime beats 5%, Memory beats 66.3%)](total-cost-to-hire-k-workers.py)
+### 2483. [Minimum Penalty for a Shop - Finished ()](minimum-penalty-for-a-shop.py)
 ### 2551. [Put Marbles in Bags - Finished ()](put-marbles-in-bags.py)
 ### 2553. [Separate the Digits in an Array - Finished (Runtime beats 95.80%, Memory beats 80.78%)](seperate-the-digits-in-an-array.py)
 ### 2598. [Smallest Missing Non-negative Integer After Operations - Unfinished](find-smallest-integer.js)
