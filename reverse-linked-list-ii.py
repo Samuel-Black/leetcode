@@ -16,24 +16,21 @@ class Solution:
     node = head
     
     i = 1
-    while node or i < right:
-      if i == left:
-        reversedStart = prev
-      if i >= left and i < right:
-        
-        newHead = node.next
-        oldHead = reversedStart.next
-        reversedStart.next = newHead
-        node.next = newHead.next
-        newHead.next = oldHead
-        i+=1
-        continue
-        
-      elif i > right:
-        break
+    while i < left:
       prev = node
       node = node.next
       i+=1
+      
+    reversedStart = prev
+    
+    while i < right:
+      newHead = node.next
+      oldHead = reversedStart.next
+      reversedStart.next = newHead
+      node.next = newHead.next
+      newHead.next = oldHead
+      i+=1
+
       
     return sentinel.next
         
