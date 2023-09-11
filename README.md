@@ -171,6 +171,7 @@
 ### 1207. [Unique Number of Occurrences - Finished (Runtime beats 70.27%, Memory beats 88.36%)](unique-number-of-occurrences.py)
 ### 1218. [Longest Arithmetic Subsequence of Given Difference - Finished ()](longest-arithmetic-subsequence-of-given-difference.py)
 ### 1230. [Toss Strange Coins - Unfished ()](toss-strange-coins.py)
+### 1282. [Group the People Given the Group Size They Belong To - Finished (Runtime beats 97.99%, Memory beats 31.58%)](group-the-people-given-the-group-size-they-belong-to.py)
 ### 1295. [Find Numbers with Even Number of Digits - Finished (Runtime beats 72.63%, Memory beats 56.10%)](find-numbers-with-even-number-of-digits.py)
 ### 1299. [Replace Elements with Greatest Element on Right Side - Finished (Runtime beats 73.39%, Memory beats 70.90%)](replace-elements-with-greatestelement-on-right-side.py)
 ### 1326. [Minimum Number of Taps to Open to Water a Garden - Finished ()](minimum-number-of-taps-to-open-to-water-a-garden.py)
