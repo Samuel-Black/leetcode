@@ -160,6 +160,7 @@
 ### 977. [Squares of a Sorted Array - Finished (Runtime beats 71.17%, Memory beats 19.50%)](squares-of-a-sorted-array.py)
 ### 1004. [Max Consecutive Ones III - Finished (Runtime beats 82.21%, Memory beats 43.56%)](max-consecutive-ones-iii.py)
 ### 1046. [Last Stone Weight - Finished (Runtime beats 11.9%, Memory beats 25.49%)](last-stone-weight.js)
+### 1048. [Longest String Chain - Finished (Runtime beats 94.66%, Memory beats 99.70%)](longest-string-chain.py)
 ### 1051. [Height Checker - Finished (Runtime beats 5.22%, Memory beats 60.36%)](height-checker.py)
 ### 1071. [Greatest Common Divisor of Strings - Finished (Runtime beats 85.31%, Memory beats 97.53%)](greatest-common-divisor-of-strings.py)
 ### 1089. [Duplicate Zeros - Finished (Runtime beats 73.40%, Memory beats 60.10%)](duplicate-zeros.py)
