@@ -146,6 +146,7 @@
 ### 752. [Open the Lock - Finished (Runtime beats 91.75%, Memory beats 38.11%)](open-the-lock.py)
 ### 767. [Reorganize String - Finished ()](reorganize-string.py)
 ### 771. [Jewels and Stones - Finished (Runtime beats 84.51%, Memory beats 95.50%)](jewels-and-stones.py)
+### 799. [Champagne Tower - Finished (Runtime beats 96.63%, Memory beats 16.81%)](champagne-tower.py)
 ### 802. [Find Eventual Safe States - Finished ()](find-eventual-safe-stats.py)
 ### 852. [Peak Index in a Mountain Array - Finished (Runtime beats 98.59%, Memory beats 32.70%)](peak-index-in-a-mountain-array.py)
 ### 859. [Buddy Strings - Finished (Runtime beats 68.57%, Memory beats 99.29%)](buddy-strings.py)
