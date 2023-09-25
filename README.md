@@ -99,6 +99,7 @@
 ### 378. [Kth Smallest Element in a Sorted Matrix - Finished (Runtime beats 24.54%, Memory beats 13.76%)](kth-smallest-element-in-a-sorted-atrix.py)
 ### 380. [Insert Delete GetRandom O(1) - Finished (Runtime beats 91.65%, Memory beats 64.84%)](insert-delete-getrandom-o1.py)
 ### 387. [First Unique Character in a String - Finished (Runtime beats 33.47%, Memory beats 65.33%)](first-unique-character-in-a-string.py)
+### 389. [Find the Difference - Finished (Runtime beats 95.45%, Memory beats 75.46%)](find-the-difference.py)
 ### 392. [Is Subsequence - Finished (Runtime beats 61.61%, Memory beats 65.46%)](is-subsequence.py)
 ### 394. [Decode String - Finished (Runtime beats 82.67%, Memory beats 76.81%)](decode-string.py)
 ### 403. [Frog Jump - Finished (Runtime beats 83.23%, Memory beats 71.75%)](frog-jump.py)
