@@ -5,6 +5,12 @@ from unittest import TestCase
 class Solution:
   def findTheDifference(self, s: str, t: str) -> str:
 
+    currentDiff = ""
+    # the added character will have an odd number of occurences
+    # 
+    # for c in t:
+      
+
     sCount = defaultdict(int)
     tCount = defaultdict(int)
     for c in s:
@@ -17,7 +23,7 @@ class Solution:
         return key
     
 
-    return ""
+    return currentDiff
 
 solution = Solution()
 testCase = TestCase()

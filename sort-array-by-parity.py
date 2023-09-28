@@ -2,14 +2,18 @@ from typing import List
 
 class Solution:
   def sortArrayByParity(self, nums: List[int]) -> List[int]:
-    n = len(nums)
-    
-    for i in range(n-1,-1,-1):
-      if nums[i] % 2 != 0:
-        temp = nums[i]
-        del nums[i]
-        nums.append(temp)
-        
+    left, right = 0, len(nums)-1
+
+    while left < right:
+      if nums[left] % 2 != 0 and nums[right] % 2 == 0:
+        temp = nums[left]
+        nums[left] = nums[right]
+        nums[right] = temp
+      if nums[left] % 2 == 0:
+        left+=1
+      if nums[right] % 2 != 0:
+        right-=1
+
     return nums
     
 solution = Solution()
