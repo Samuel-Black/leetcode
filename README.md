@@ -44,6 +44,7 @@
 ### 117. [Populating Next Right Pointers in Each Node II - Finished ()](populating-next-right-pointers-in-each-node-ii.py)
 ### 118. [Pascal's Triangle - Finished (Runtime beats 75.33%, Memory beats 94.68%)](pascals-triangle.py)
 ### 119. [Pascal's Triangle II - Finished (Runtime beats 83.65%, Memory beats 71.10%)](pascals-triangle-ii.py)
+### 121. [Best Time to Buy and Sell Stock - Finished (Runtime beats 75.95%, Memory beats 83.75%)](best-time-to-buy-and-sell-stock.py)
 ### 136. [Single Number - Finished (Runtime beats 79.48%, Memory beats 38.88%)](single-number.py)
 ### 137. [Single Number II - Finished (Runtime beats 92.70%, Memory beats 86.89%)](single-number-ii.py)
 ### 138. [Copy List with Random Pointer - Finished (Runtime beats 93.17%, Memory beats 99.99%)](copy-list-with-random-pointer.py)
