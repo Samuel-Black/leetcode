@@ -119,7 +119,7 @@
 ### 498. [Diagonal Traverse - Finished (Runtime beats 89.20%, Memory beats 94.60%)](diagonal-traverse.py)
 ### 542. [01 Matrix - Finished ()](01-matrix.py)
 ### 543. [Diameter of Binary Tree - Finished ()](diameter-of-binary-tree.py)
-### 557. [Reverse Words in a String III - Finished (Runtie beats 12.71%, Memory beats 97.55%)](reverse-words-in-a-string-iii.py)
+### 557. [Reverse Words in a String III - Finished (Runtie beats 22.91%, Memory beats 97.55%)](reverse-words-in-a-string-iii.py)
 ### 561. [Array Partition - Finished (Runtime beats 91.96%, Memory beats 60.62%)](array-partition.py)
 ### 599. [Minimum Index Sum of Two Lists - Finished (Runtime beats 92.20%, Memory beats 87.92%)](minimum-index-sum-of-two-lists.py)
 ### 605. [Can Place Flowers - Finished (Runtime beats 68.79%, Memory beats 66.53%)](can-place-flowers.py)
