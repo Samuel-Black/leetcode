@@ -215,6 +215,8 @@
 ### 1805. [Number of Different Integers in a String - Finished (Runtime beats 69.43%, Memory beats 67.45%)](number-of-different-integers-in-a-string.py)
 ### 1870. [Minimum Speed to Arrive on Time - Finished (Runtime beats 69.80%, Memory beats 45.87%)](minimum-speed-to-arrive-on-time.py)
 ### 2024. [Maximize the Confusion of an Exam - Finished (Runtime beats 28.62%, Memory beats 55.12%)](maximize-the-confuion-of-an-exam.py)
+### 2038. [Remove Colored Pieces if Both Neighbors are the Same Color - Finished (Runtime beats 76.57%
+, Memory beats 94.9%)](remove-colored-pieces-if-both-are-the-same-color.py)
 ### 2095. [Delete the Middle Node of a Linked List - Finished (Runtime beats 81.79%, Memory beats 57.81%)](delete-the-middle-node-of-a-linked-list.py)
 ### 2130. [Maximum Twin Sum of a Linked List - Finished (Runtime beats 77.40%, Memory beats 81.36%)](maximum-twin-sum-of-a-linked-list.py)
 ### 2141. [Maximum Running Time of N Computers - Finished (Runtime beats 46.99%, Memory beats 49.40%)](maximum-running-time-of-n-computers.py)
