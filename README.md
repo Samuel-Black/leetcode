@@ -111,6 +111,7 @@
 ### 389. [Find the Difference - Finished (Runtime beats 95.45%, Memory beats 75.46%)](find-the-difference.py)
 ### 392. [Is Subsequence - Finished (Runtime beats 61.61%, Memory beats 65.46%)](is-subsequence.py)
 ### 394. [Decode String - Finished (Runtime beats 82.67%, Memory beats 76.81%)](decode-string.py)
+### 397. [Integer Replacement - Finished (Runtime beats 95.34%, Memory beats 92.30%)](Integer-Replacement.py)
 ### 403. [Frog Jump - Finished (Runtime beats 83.23%, Memory beats 71.75%)](frog-jump.py)
 ### 414. [Third Maximum Number - Finished (Runtime beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
 ### 430. [Flatten a Multilevel Doubly Linked List - Finished (Runtime beats 8.96%, Memory beats 25.95%)](flatten-a-multilevel-doubly-linked-list.py)
