@@ -201,6 +201,7 @@
 ### 1448. [Count Good Nodes in Binary Tree - Finished ()](count-good-nodes-in-binary-tree.py)
 ### 1456. [Maximum Number of Vowels in a Substring of Given Length - Finished (Runtime beats 83.17%, Memory beats 91.90%)](maximum-number-of-vowels-in-a-substring.py)
 ### 1493. [Longest Subarray of 1's After Deleting One Element - Finished (Runtime beats 82.40%, Memory beats 93.98%)](longest-subarray-of-1s-after-deleting-one-element.py)
+### 1512. [Number of Good Pairs - Finished (Runtime beats 99.52%, Memory beats 97.25%)](number-of-good-pairs.py)
 ### 1584. [Min Cost to Connect All Points - Finished ()](min-cost-to-connect-all-points.py)
 ### 1598. [Crawler Log Folder - Finished (Runtime beats 100%, Memory beats 70.70%)](crawler-log-folder.js)
 ### 1601. [Maximum Number of Achievable Transfer Requests - Finished (Runtime beats 53.40%, Memory beats 95.15%)](maximum-number-of-achievable-transfer-requests.py)
