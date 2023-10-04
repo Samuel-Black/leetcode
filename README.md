@@ -219,9 +219,11 @@
 ### 2024. [Maximize the Confusion of an Exam - Finished (Runtime beats 28.62%, Memory beats 55.12%)](maximize-the-confuion-of-an-exam.py)
 ### 2038. [Remove Colored Pieces if Both Neighbors are the Same Color - Finished (Runtime beats 76.57%
 , Memory beats 94.9%)](remove-colored-pieces-if-both-are-the-same-color.py)
+### 2086. [Minimum Number of Food Buckets to Feed the Hamsters - Finished ()](minimum-number-of-food-buckets-to-feed-the-hamsters.py)
 ### 2095. [Delete the Middle Node of a Linked List - Finished (Runtime beats 81.79%, Memory beats 57.81%)](delete-the-middle-node-of-a-linked-list.py)
 ### 2130. [Maximum Twin Sum of a Linked List - Finished (Runtime beats 77.40%, Memory beats 81.36%)](maximum-twin-sum-of-a-linked-list.py)
 ### 2141. [Maximum Running Time of N Computers - Finished (Runtime beats 46.99%, Memory beats 49.40%)](maximum-running-time-of-n-computers.py)
+### 2185. [Counting Words With a Given Prefix - Finished (Runtime beats 96.63%, Memory beats 92.67%)](counting-words-with-a-given-prefix.py)
 ### 2189. [Number of Ways to Build House of Cards - Finished ()](number-of-ways-to-build-house-of-cards.py)
 ### 2215. [Find the Difference of Two Arrays - Finished (Runtime beats 91.68%, Memory beats 87.41%)](find-the-difference-of-two-arrays.py)
 ### 2272. [Substring With Largest Variance - Finished ()](substring-with-largest-variance.py)
