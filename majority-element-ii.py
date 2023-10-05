@@ -2,6 +2,12 @@ from collections import defaultdict
 from typing import List
 from unittest import TestCase
 
+# voting algorithm
+# for an element to be a majority it must be > at least len(arr)/2
+# for 2 to be a majority they must both be at least len(arr)/3
+# for 3 to be a majority they must both be at least len(arr)/4
+# can solve in n time and constant memory using x*2 variables where x*2 is the number of majorities being tracked
+
 class Solution:
   def majorityElement(self, nums: List[int]) -> List[int]:
     
