@@ -115,6 +115,7 @@
 ### 397. [Integer Replacement - Finished (Runtime beats 95.34%, Memory beats 92.30%)](Integer-Replacement.py)
 ### 403. [Frog Jump - Finished (Runtime beats 83.23%, Memory beats 71.75%)](frog-jump.py)
 ### 414. [Third Maximum Number - Finished (Runtime beats 62.6%, Memory beats 92.98%)](third-maximum-number.py)
+### 422. [Valid Word Square - Finished (Runtime beats 84.96%, Memory beats 90.25%)](valid-word-square.py)
 ### 430. [Flatten a Multilevel Doubly Linked List - Finished (Runtime beats 8.96%, Memory beats 25.95%)](flatten-a-multilevel-doubly-linked-list.py)
 ### 433. [Minimum Genetic Mutation - Finished (Runtime beats 55.85%, Memory beats 86.41%)](minimum-genetic-mutation.py)
 ### 435. [Non-overlapping Intervals - Finished (Runtime beats 89.60%, Memory beats 78.77%)](non-overlapping-intervals.py)

@@ -41,12 +41,6 @@ class Solution:
         res.append(m)
 
     return res
-
-
-      
-
-
-    
   
 solution = Solution()
 testCase = TestCase()
