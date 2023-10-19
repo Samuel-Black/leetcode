@@ -11,7 +11,7 @@ class Solution:
     # if it does check if the current sum > largestSupport
     # and replace it if it is
     
-    for size in range(2, len(rods)):
+    for size in range(1, len(rods)):
       # Iterate through all subsets of size "size"
       for subset in itertools.combinations(rods, size):
         subsetSum = sum(subset)
