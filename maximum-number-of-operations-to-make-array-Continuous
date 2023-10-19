@@ -1,0 +1,29 @@
+from typing import List
+from unittest import TestCase
+
+
+class Solution:
+  def minOperations(self, nums: List[int]) -> int:
+    
+    left = right = 0
+    n = len(nums)
+    currMax = 0
+    currMin = (10**9)+1
+    currMaxIndex = 0
+    currMinIndex = 0
+    
+    for i in range(0, n):
+      
+      
+
+solution = Solution()
+testCase = TestCase()
+
+test1 = solution.minOperations([4,2,5,3])
+testCase.assertEqual(test1, 0)
+
+test2 = solution.minOperations([1,2,3,5,6])
+testCase.assertEqual(test2, 1)
+
+test3 = solution.minOperations([1,10,100,1000])
+testCase.assertEqual(test3, 3)
