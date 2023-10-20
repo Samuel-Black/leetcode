@@ -101,6 +101,7 @@
 ### 329. [Longest Increasing Path in a Matrix - Finished ()](longest-increasing-path-in-a-matrix.py)
 ### 334. [Increasing Triplet Subsequence - Finished (Runtime beats 34.19%, Memory beats 97.13%)](increasing-triplet-subsequence.py)
 ### 338. [Counting Bits - Finished (Runtime beats 84.63%, Memory beats 94.90%)](counting-bits.py)
+### 341. [Flatten Nested List Iterator - Finished (Runtime beats 90.75%, Memory beats 90.50%)](flatten-nested-list-iterator.py)
 ### 343. [Integer Break - Finished ()](integer-break.py)
 ### 344. [Reverse String - Finished (Runtime beats 86.91%, Memory beats 51.81%)](reverse-string.py)
 ### 345. [Reverse Vowels of a String - Finished (Runtime beats 90.17%, Memory beats 71.42%)](reverse-vowels-of-a-string.py)
