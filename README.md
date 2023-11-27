@@ -203,6 +203,7 @@
 ### 1207. [Unique Number of Occurrences - Finished (Runtime beats 70.27%, Memory beats 88.36%)](unique-number-of-occurrences.py)
 ### 1218. [Longest Arithmetic Subsequence of Given Difference - Finished ()](longest-arithmetic-subsequence-of-given-difference.py)
 ### 1230. [Toss Strange Coins - Unfished ()](toss-strange-coins.py)
+### 1232. [Check If It Is a Straight Line - Finished (Runtime beats 95.12%, Memory beats 45.61%)](check-if-it-is-a-straight-line.py)
 ### 1234. [Replace the Substring for Balanced String - Finished ()](replace-the-substring-for-balanced-string.py)
 ### 1269. [Number of Ways to Stay in the Same Place After Some Steps - Finished ()](number-of-ways-to-stay-in-the-same-place-after-some-steps.py)
 ### 1282. [Group the People Given the Group Size They Belong To - Finished (Runtime beats 97.99%, Memory beats 31.58%)](group-the-people-given-the-group-size-they-belong-to.py)
