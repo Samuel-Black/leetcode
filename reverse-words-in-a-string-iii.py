@@ -6,61 +6,17 @@ class Solution:
     n = len(s)
     res = ""
     while i < n:
-      reversedStr = " "
-      while s[i] != " ":
+      reversedStr = ""
+      while i < n and s[i] != " ":
         reversedStr = s[i] + reversedStr
         i+=1
-      res += reversedStr
-    
+      if reversedStr != "":
+        res += reversedStr
+        continue
+      elif i < n:
+        res += s[i]
+      i+=1
     return res
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     # res = ""
     # count = len(s) - 1
